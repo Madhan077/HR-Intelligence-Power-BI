@@ -73,3 +73,16 @@ HR-Intelligence-Power-BI/
 ├── HR Intelligence.pbix
 │
 └── README.md
+
+## 👨‍💻 Author
+
+**Madhan K**
+
+B.Tech – Information Technology  
+Gnanamani College of Technology
+
+**Aspiring Data Analyst**
+
+### Technical Skills
+
+`SQL` `Python` `Pandas` `NumPy` `Excel` `Power BI` `DAX` `Power Query`
